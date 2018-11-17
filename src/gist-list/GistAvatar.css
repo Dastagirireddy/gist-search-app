@@ -1,0 +1,11 @@
+.GistAvatar {
+	margin-right: 10px;
+	width: 40px;
+	height: 40px;
+	border-radius: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: inline-block;
+	background-size: cover;
+	border: 1px solid #ccc;
+}
